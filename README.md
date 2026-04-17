@@ -38,5 +38,5 @@ Supports live messaging, user separation, and responsive UI with dark theme.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/chat-app-frontend.git
-cd chat-app-frontend
+git clone https://github.com/suraj-the-spidy03/chat-fe.git
+cd chat-fe
